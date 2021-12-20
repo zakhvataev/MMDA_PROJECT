@@ -1,0 +1,1 @@
+in this folder you can find an csv files with slusters and their descriptions for each step of our project
